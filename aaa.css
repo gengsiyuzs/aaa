@@ -1,0 +1,45 @@
+.content{
+    font-size: 0;
+    /*解决行内快元素默认的*/
+}
+.content a{
+    display: inline-block;
+    width: 25%;
+    height: 260px;
+}
+.pic1{
+    background-image: url("https://mobike.com/cn/assets/themes/moby/img/landing/hero-bg-7.jpg");
+    /*背景平铺方式*/
+    background-repeat: no-repeat;
+    /*北京位置：中间*/
+    background-position: center center;
+    /*完全覆盖*/
+    background-size: cover;
+}
+.pic2{
+    background-image: url(https://mobike.com/cn/assets/themes/moby/img/landing/hero-bg-6.jpg);
+    /*背景平铺方式*/
+    background-repeat: no-repeat;
+    /*北京位置：中间*/
+    background-position: center center;
+    /*完全覆盖*/
+    background-size: cover;
+}
+.pic3{
+    background-image: url("https://mobike.com/cn/assets/themes/moby/img/landing/hero-bg-5.jpg");
+    /*背景平铺方式*/
+    background-repeat: no-repeat;
+    /*北京位置：中间*/
+    background-position: center center;
+    /*完全覆盖*/
+    background-size: cover;
+}
+.pic4{
+    background-image: url("https://mobike.com/cn/assets/themes/moby/img/landing/hero-bg-1.jpg");
+    /*背景平铺方式*/
+    background-repeat: no-repeat;
+    /*北京位置：中间*/
+    background-position: center center;
+    /*完全覆盖*/
+    background-size: cover;
+}

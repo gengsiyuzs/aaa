@@ -1,0 +1,79 @@
+@media screen and (max-width: 1080px){
+    .content a{
+        width: 50%;
+    }
+    .nav{
+        display: none;
+    }
+    .header{
+        max-width: 768px;
+    }
+    .contanier{
+        max-width: 768px;
+    }
+    .swiper .bao .text{
+        color: white;
+        font-size: 150%;
+        font-weight: bold;
+        line-height: 1;
+    }
+    .swiper .bao .back h3{
+        width: 200px;
+        font-size: 16px;
+        font-weight: bold;
+        color: white;
+        padding: 7px 20px;
+        border: 1px solid darkslategrey;
+        border-radius: 5px;
+        background: rgba(0,0,0,.6);
+    }
+}
+@media screen and (max-width: 640px){
+    .content a{
+        width: 100%;
+    }
+    .header{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .contanier {
+        width: 100%;
+    }
+    .contanier .item{
+        width: 100%;
+        text-align: left;
+        padding: 20px 0;
+    }
+    .swiper .bao .text{
+        color: white;
+        font-size: 100%;
+        font-weight: bold;
+        line-height: 1;
+    }
+    .swiper .bao .back h3{
+        width: 100px;
+        font-size: 16px;
+        font-weight: bold;
+        color: white;
+        padding: 7px 20px;
+        border: 1px solid darkslategrey;
+        border-radius: 5px;
+        background: rgba(0,0,0,.6);
+    }
+}
+@media screen and (max-width:713px){
+    .last .left{
+        width: 100%;
+    }
+    .last .lifee{
+        width: 100%;
+    }
+}
+/*@media screen and (max-width:640px){*/
+    /*.last .left{*/
+        /*width: 100%;*/
+    /*}*/
+    /*.last .lifee{*/
+        /*width: 100%;*/
+    /*}*/
+/*}*/
